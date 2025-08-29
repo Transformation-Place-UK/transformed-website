@@ -86,11 +86,19 @@ body {
     transition: background-color 0.3s ease;
 }
 
+
+.navbar ul li a.inactive:hover {
+    background-color: transparent;
+    cursor: default;
+}
+
 /* Navbar Hover Effect */
 .navbar ul li a:hover {
     background-color: #575757;
     /* Slightly lighter background */
 }
+
+
 
 /* Navbar Responsive Design */
 @media (max-width: 768px) {
