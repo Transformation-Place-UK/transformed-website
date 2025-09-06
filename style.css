@@ -1,7 +1,31 @@
 /* Google Fonts Import */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+/* Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL*/
+
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap#:~:text=font-family%3A%20%27Source%20Sans%203%27%3B%20font-style%3A%20italic%3B%20font-weight%3A%20900%3B,Sans%203%27%3B%20font-style%3A%20normal%3B%20font-weight%3A%20200%3B%20font-display%3A%20swap%3B');
+/* Copyright 2010, 2012, 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name Source.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+
+—————————————————————————————-
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+—————————————————————————————-
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+/* Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name "Playfair Display".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+
+—————————————————————————————-
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+—————————————————————————————-
+*/
 
 /* Global Styles */
 * {
