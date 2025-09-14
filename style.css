@@ -166,3 +166,8 @@ footer p {
 #content-wrap {
   padding-bottom: 5rem;    /* Footer height */
 }
+
+.fb-logo {
+    vertical-align: middle;
+    margin-left: 10px;
+}
