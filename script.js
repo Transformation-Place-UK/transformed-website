@@ -52,8 +52,8 @@ function showSlides(n) {
   <div class="text">Caption Three</div>
 </div>
 
-<a class="prev" onclick="plusSlides(-1)">❮</a>
-<a class="next" onclick="plusSlides(1)">❯</a>
+<a class="prev" onclick="plusSlides(-1)">></a>
+<a class="next" onclick="plusSlides(1)">></a>
 
 </div>
 <br>
